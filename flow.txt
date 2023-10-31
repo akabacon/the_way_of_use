@@ -1,0 +1,1 @@
+創建環境-->下載ndoejs --> 下載npm或yarn然後下載react,window,dom-->創建專案-->替換src
