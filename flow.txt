@@ -2,5 +2,7 @@
                                                                        -->放入src跟public並刪除所有lock json檔-->放入替換專案的json檔-->yarn start
                                                                        -->只保留public,src跟json檔(沒有lock跟module)-->yarn install
 
-node.js: 18.16.0
+
+https://nodejs.org/en/download/releases
+node.js: 18.16.0X,12.22.12,17.9.1
 yarn: 1.22.19
