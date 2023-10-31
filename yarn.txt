@@ -2,3 +2,5 @@ sudo npm install -g yarn
 yarn add react
 yarn add react-window
 yarn add react-dom
+
+yarn install
