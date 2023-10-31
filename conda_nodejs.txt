@@ -1,0 +1,10 @@
+$ conda create -yn myapp nodejs
+$ conda activate myapp
+$ node --version
+v8.11.3
+$ npm --version
+5.6.0
+$ conda env remove -yp ./myapp
+delete
+conda env list
+conda deactivate
