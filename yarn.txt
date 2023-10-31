@@ -1,4 +1,4 @@
 sudo npm install -g yarn
-yarn install react
-yarn install react-window
-yarn install react-dom
+yarn add react
+yarn add react-window
+yarn add react-dom
