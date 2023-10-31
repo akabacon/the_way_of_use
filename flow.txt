@@ -1,1 +1,2 @@
 創建環境-->下載ndoejs --> 下載npm或yarn然後下載react,window,dom-->創建專案-->替換src
+                                                                       -->放入src跟public並刪除所有json檔-->放入替換專案的json檔-->yarn start
