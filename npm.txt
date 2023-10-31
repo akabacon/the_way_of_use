@@ -1,0 +1,12 @@
+npm install -g create-react-app
+sudo npm install -g create-react-app
+create-react-app my-app
+cd my-app
+npm start
+
+#元件包
+npm install --force
+
+react: React 库本身
+react-window 多層圖層
+react-dom: 用于在浏览器中渲染 React 元素
