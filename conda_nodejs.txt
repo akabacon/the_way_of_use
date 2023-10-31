@@ -4,7 +4,8 @@ $ node --version
 v8.11.3
 $ npm --version
 5.6.0
-$ conda env remove -yp ./myapp
+
+$ conda env remove --name myenv
 delete
 conda env list
 conda deactivate
